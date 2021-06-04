@@ -9,5 +9,5 @@ cargo install cargo-licensebundler
 
 ## Usage
 ````bash
-cargo <path-to-cargo.toml> <output-path>
+cargo-licensebundler <path-to-cargo.toml> <output-path>
 ````
