@@ -7,6 +7,9 @@ authors = [
     "Ferdinand Linnenberg <ferdinand@linnenberg.dev>"
 ]
 repository = "https://github.com/Scarjit/licensebundler"
+description = "Cargo subcommand to generate bundled license html"
+keywords = ["license"]
+categories = ["command-line-utilities"]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
